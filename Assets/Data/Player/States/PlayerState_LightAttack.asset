@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d830dade7390924e9e75c66baba1b01, type: 3}
+  m_Name: PlayerState_LightAttack
+  m_EditorClassIdentifier: 
+  enterAnName: LightAttack
+  stateEnterTime: 57.157463
+  attackEarlyFinishTime: 0.5
+  attackClip:
+    clip: {fileID: 8300000, guid: 6dfb84ba2588dc448b0e64654bbb4da8, type: 3}
+    volume: 0.5

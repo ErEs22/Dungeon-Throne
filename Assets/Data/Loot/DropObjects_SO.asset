@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39c89cff68078ac49a3f32c72dae51c5, type: 3}
+  m_Name: DropObjects_SO
+  m_EditorClassIdentifier: 
+  WeaponLoot: {fileID: 2767989311971620185, guid: 4dd75028dc3d073498f905c87f82cc8b, type: 3}
+  EquipmentLoot: {fileID: 3724523367864701005, guid: 8c08a4ad14732694a85911249bd5adf3, type: 3}
+  ComsumableLoot: {fileID: 3597606834502587210, guid: 3ebe74db974437444936da642d6ed85f, type: 3}
